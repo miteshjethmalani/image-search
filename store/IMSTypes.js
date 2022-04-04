@@ -1,0 +1,7 @@
+export const SET_IMAGE_LIST = "SET_IMAGE_LIST";
+export const SET_SEARCH_STRING = "SET_SEARCH_STRING";
+export const SET_PAGE_NUMBER = "SET_PAGE_NUMBER";
+export const SET_AT_LAST = "SET_AT_LAST";
+export const SET_LOADING = "SET_LOADING";
+export const SET_SHOW_MODAL = "SET_SHOW_MODAL";
+export const SET_SELECTED_ITEM = "SET_SELECTED_ITEM";
